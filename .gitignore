@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+_uploaded_*.xlsx
+dataset_aktif.xlsx
+.env
+*.xlsx
